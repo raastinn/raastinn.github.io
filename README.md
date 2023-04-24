@@ -19,7 +19,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/raastinn/raastinn.github.io?color=ffcc66&style=for-the-badge)
 [![GitHub forks](https://img.shields.io/github/forks/raastinn/raastinn.github.io?style=for-the-badge)](https://github.com/raastinn/raastinn.github.io/network)
 [![GitHub issues](https://img.shields.io/github/issues/raastinn/raastinn.github.io?color=ffcc66&style=for-the-badge)](https://github.com/raastinn/raastinn.github.io/issues)
-[![GitHub license](https://img.shields.io/github/license/raastinn/raastinn.github.io?style=for-the-badge)](https://github.com/hashirshoaeb/home/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/raastinn/raastinn.github.io?style=for-the-badge)](https://github.com/raastinn/raastinn.github.io/blob/master/LICENSE)
 [![Node Version](https://img.shields.io/static/v1?label=Node&message=v16.16.0&color=026e00&style=for-the-badge)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=8.11.0&color=cb0000&style=for-the-badge)](https://nodejs.org)
 
