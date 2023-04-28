@@ -62,7 +62,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "raastinn",
   reposLength: 0,
-  specificRepos: ["ProcessManager", "MovieExplorer", "MazeRunner", "CNF_SudokuSolver"],
+  specificRepos: ["signai", "MovieExplorer", "MazeRunner", "ProcessManager"],
 };
 
 // Leadership SECTION
