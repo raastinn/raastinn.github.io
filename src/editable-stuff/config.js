@@ -98,7 +98,7 @@ const skills = {
     { name: "MySQL", value: 50 },
     { name: "Java", value: 85 },
     { name: "C", value: 75 },
-    { name: "JavaScript", value: 60 },
+    { name: "JavaScript", value: 80 },
     { name: "HTML", value: 75 },
     { name: "CSS", value: 80 },
     { name: "React", value: 70 },
