@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.778eeed7.css",
-    "main.js": "/static/js/main.64d63e07.js",
+    "main.js": "/static/js/main.f14147cd.js",
     "static/media/rastinrashidi.png": "/static/media/rastinrashidi.a8d10f48ab3e1e28c907.png",
     "static/media/cfia.png": "/static/media/cfia.1e93e0eefc5408f6c1bd.png",
     "index.html": "/index.html",
     "main.778eeed7.css.map": "/static/css/main.778eeed7.css.map",
-    "main.64d63e07.js.map": "/static/js/main.64d63e07.js.map"
+    "main.f14147cd.js.map": "/static/js/main.f14147cd.js.map"
   },
   "entrypoints": [
     "static/css/main.778eeed7.css",
-    "static/js/main.64d63e07.js"
+    "static/js/main.f14147cd.js"
   ]
 }
