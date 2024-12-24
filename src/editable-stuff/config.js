@@ -95,13 +95,13 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 85 },
-    { name: "MySQL", value: 50 },
+    { name: "MySQL", value: 60 },
     { name: "Java", value: 85 },
     { name: "C", value: 75 },
-    { name: "JavaScript", value: 80 },
-    { name: "HTML", value: 75 },
+    { name: "TypeScript/JavaScript", value: 88 },
+    { name: "HTML", value: 80 },
     { name: "CSS", value: 80 },
-    { name: "React", value: 70 },
+    { name: "React", value: 85 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
@@ -134,9 +134,14 @@ const experiences = {
       date: 'September 2020 – Present',
     },
     {
+      role: 'Founder, Full-Stack Software Engineer',
+      companylogo: require('../assets/img/attired.png'),
+      date: 'September 2024 – Present',
+    },
+    {
       role: 'Software Developer',
       companylogo: require('../assets/img/cfia.png'),
-      date: 'September 2023 – Present',
+      date: 'September 2023 – August 2024',
     },
   ]
 }
