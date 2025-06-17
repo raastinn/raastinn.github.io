@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.778eeed7.css",
-    "main.js": "/static/js/main.573c04bf.js",
+    "main.js": "/static/js/main.2ba49469.js",
     "static/media/rastinrashidi.png": "/static/media/rastinrashidi.a8d10f48ab3e1e28c907.png",
-    "static/media/attired.png": "/static/media/attired.a1f7d3779fc54adfbdbd.png",
+    "static/media/attired.png": "/static/media/attired.d1ec1d0d86383ad7a4a2.png",
     "static/media/uvic.png": "/static/media/uvic.6b180c4946b6409eb377.png",
     "index.html": "/index.html",
     "main.778eeed7.css.map": "/static/css/main.778eeed7.css.map",
-    "main.573c04bf.js.map": "/static/js/main.573c04bf.js.map"
+    "main.2ba49469.js.map": "/static/js/main.2ba49469.js.map"
   },
   "entrypoints": [
     "static/css/main.778eeed7.css",
-    "static/js/main.573c04bf.js"
+    "static/js/main.2ba49469.js"
   ]
 }
