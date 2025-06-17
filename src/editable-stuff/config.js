@@ -130,18 +130,24 @@ const experiences = {
   data: [
     {
       role: 'Bachelor of Computer Science',// Here Add Company Name
+      company: 'University of Victoria',
       companylogo: require('../assets/img/uvic.png'),
       date: 'September 2020 – Present',
+      link: 'https://www.uvic.ca/',
     },
     {
-      role: 'Founder, Full-Stack Software Engineer',
+      role: 'Founder, Chief Technology Officer',
+      company: 'Attired',
       companylogo: require('../assets/img/attired.png'),
       date: 'September 2024 – Present',
+      link: 'https://attired.app/',
     },
     {
       role: 'Software Developer',
+      company: 'Government of Canada',
       companylogo: require('../assets/img/cfia.png'),
       date: 'September 2023 – August 2024',
+      link: 'https://www.virtool.ca/',
     },
   ]
 }
