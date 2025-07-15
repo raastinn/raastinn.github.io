@@ -136,13 +136,6 @@ const experiences = {
       link: 'https://www.uvic.ca/',
     },
     {
-      role: 'Software Engineer',
-      company: 'Ocean Networks Canada',
-      companylogo: require('../assets/img/onc.png'),
-      date: 'September 2025 – April 2026',
-      link: 'https://www.oceannetworks.ca/',
-    },
-    {
       role: 'Founder, Chief Technology Officer',
       company: 'Attired',
       companylogo: require('../assets/img/attired.png'),
