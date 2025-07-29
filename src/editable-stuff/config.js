@@ -49,7 +49,7 @@ const about = {
   imageLink: require("../editable-stuff/rastinrashidi.png"),
   imageSize: 375,
   message:
-    "My name is Rastin Rashidi. I'm currently a 3rd year student at the University of Victoria studying Computer Science and pursuing a Minors in Business. I have experience with various programming languages including Python, Java, C, JavaScript, HTML, and CSS. I also have experience working with React and Figma! Throughout my studies, I have worked on numerous projects which helped strengthen my skills in many areas. I am continuously seeking new challenges to further my knowledge.",
+    "My name is Rastin Rashidi. I'm currently a 4th-year student at the University of Victoria pursuing a Bachelor of Science (BSc) majoring in Computer Science, with a completed Minor in Business. I have experience with a range of programming languages, including Python, Java, C, TypeScript, and React. Through academic and personal projects, I’ve strengthened my skills in software development and problem-solving. I’m always eager to take on new challenges that push me to grow and learn.",
 };
 
 // PROJECTS SECTION
