@@ -136,6 +136,13 @@ const experiences = {
       link: 'https://www.uvic.ca/',
     },
     {
+      role: 'Jr. Software Engineer',
+      company: 'Ocean Networks Canada',
+      companylogo: require('../assets/img/onc.png'),
+      date: 'September 2025 – April 2026',
+      link: 'https://www.attired.app/',
+    },
+    {
       role: 'Founder, Chief Technology Officer',
       company: 'Attired',
       companylogo: require('../assets/img/attired.png'),
@@ -143,7 +150,7 @@ const experiences = {
       link: 'https://www.attired.app/',
     },
     {
-      role: 'Software Developer',
+      role: 'Software Engineer',
       company: 'Government of Canada',
       companylogo: require('../assets/img/cfia.png'),
       date: 'September 2023 – August 2024',
