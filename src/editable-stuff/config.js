@@ -139,8 +139,8 @@ const experiences = {
       role: 'Software Engineer',
       company: 'Ocean Networks Canada',
       companylogo: require('../assets/img/onc.png'),
-      date: 'September 2025 – April 2026',
-      link: 'https://www.momentenergy.com/',
+      date: 'September 2025 – Present',
+      link: 'https://www.onc.ca/',
     },
     {
       role: 'Founder, Chief Technology Officer',
