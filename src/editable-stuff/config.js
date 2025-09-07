@@ -135,13 +135,13 @@ const experiences = {
       date: 'September 2020 – Present',
       link: 'https://www.uvic.ca/',
     },
-    // {
-    //   role: 'Software Engineer',
-    //   company: 'Ocean Networks Canada',
-    //   companylogo: require('../assets/img/onc.png'),
-    //   date: 'September 2025 – April 2026',
-    //   link: 'https://www.attired.app/',
-    // },
+    {
+      role: 'Software Engineer',
+      company: 'Ocean Networks Canada',
+      companylogo: require('../assets/img/onc.png'),
+      date: 'September 2025 – April 2026',
+      link: 'https://www.momentenergy.com/',
+    },
     {
       role: 'Founder, Chief Technology Officer',
       company: 'Attired',
